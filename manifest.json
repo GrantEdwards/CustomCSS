@@ -5,7 +5,7 @@
     "applications": {
         "gecko": {
             "id": "CustomCSS@GrantEdwards.github.io",
-            "strict_min_version": "91.7.0"
+            "strict_min_version": "91.0"
         }
     },
     "permissions": [
