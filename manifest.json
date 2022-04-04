@@ -1,7 +1,7 @@
 {
     "name": "CustomCSS",
     "description": "Add custom CSS to email message",
-    "version": "1.01",
+    "version": "1.1",
     "applications": {
         "gecko": {
             "id": "CustomCSS@GrantEdwards.github.io",
