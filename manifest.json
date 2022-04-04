@@ -1,12 +1,17 @@
 {
     "name": "CustomCSS",
     "description": "Add custom CSS to email message",
-    "version": "1",
+    "version": "1.01",
     "applications": {
         "gecko": {
             "id": "CustomCSS@GrantEdwards.github.io",
             "strict_min_version": "91.0"
         }
+    },
+    "icons": {
+        "64": "icon/icon-64px.png",
+        "32": "icon/icon-32px.png",
+        "16": "icon/icon-16px.png"
     },
     "permissions": [
         "compose",
