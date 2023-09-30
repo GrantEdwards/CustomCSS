@@ -1,5 +1,5 @@
 let bs = document.body.style;
-let isHTML = !((bs.width==='72ch') && (bs.whiteSpace === 'pre-wrap') && (bs.fontFamily === 'monospace'));
+let isHTML = !((bs.whiteSpace === 'pre-wrap') && (bs.fontFamily === 'monospace'));
 
 if (isHTML) {
     let marker_id = '#CustomCSS-add-on-marker';
