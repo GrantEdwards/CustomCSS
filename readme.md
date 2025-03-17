@@ -9,7 +9,7 @@ the custom CSS will be added to a newly created <style> element in the
 email's head. If the head already contains a <style> element that was
 added by this extension, it is replaced.
 
-For example, here is the configuration I use
+For example, here is the configuration I use to make quoted text appear as expected, control the default font and width of the page, and set the font used for preformatted blocks:
 
 ~~~
 blockquote {
